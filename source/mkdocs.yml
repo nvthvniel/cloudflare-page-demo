@@ -1,4 +1,5 @@
 site_name: GitHub + Cloudflare Pages
 
-repo_url: https://github.com/nvthvniel/cloudflare-page-demo
 repo_name: cloudflare-page-demo
+repo_url: https://github.com/nvthvniel/cloudflare-page-demo
+edit_uri: https://github.com/nvthvniel/cloudflare-page-demo
